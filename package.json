@@ -1,0 +1,20 @@
+{
+  "name": "backendpractice",
+  "version": "1.0.0",
+  "description": "a basic app to practice backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "ammar malik",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
